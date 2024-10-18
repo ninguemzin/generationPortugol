@@ -21,7 +21,6 @@ programa
     }
     escreva("\n")
 
-    // Exibindo elementos pares
     escreva("Elementos pares:\n")
     para (inteiro i = 0; i < 10; i++)
     {
@@ -32,7 +31,6 @@ programa
     }
     escreva("\n")
 
-    // Cálculo da média
     media = soma / 10
     escreva("Soma:\n")
     escreva(soma, "\n")
@@ -46,7 +44,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 770; 
+ * @POSICAO-CURSOR = 398; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
